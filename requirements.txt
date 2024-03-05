@@ -1,0 +1,12 @@
+pandas
+numpy
+matplotlib
+seaborn
+tabulate
+nltk
+sentence-transformers
+scikit-learn
+umap-learn
+bokeh
+hdbscan
+gensim
